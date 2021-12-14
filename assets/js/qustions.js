@@ -63,6 +63,6 @@ var questions = [
             four: "Nur bei großen Mengen"
         },
         correct: 3,
-        info: "Nur gegenüber ä.teren Spülmaschienen, den das Wasser für das Becken zu erhitzen verbraucht mehr Strom als eine Energie Effiziente Spülmaschiene!"
+        info: "Nur gegenüber älteren Spülmaschienen, den das Wasser für das Becken zu erhitzen verbraucht mehr Strom als eine Energie Effiziente Spülmaschiene!"
     },
 ]
