@@ -18,7 +18,7 @@ var questions = [
             three: "Nur gegenüber Farbigen LEDs",
             four: "Nur in kälte"
         },
-        correct: 3,
+        correct: 2,
         info: "Falsch, LEDs sind in allen Situationen im Bereich Energie Verbrauch überlegen!"
     },
     {
