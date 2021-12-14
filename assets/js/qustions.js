@@ -11,6 +11,17 @@ var questions = [
         info: "Falsch, es wird nicht schneller warm wenn man das Thermostat auf fünf dreht."
     },
     {
+        question: "Energiesparlampen sind Sparsamer als LEDs",
+        answers: {
+            one: "Richtig",
+            two: "Falsch",
+            three: "Nur gegenüber Farbigen LEDs",
+            four: "Nur in kälte"
+        },
+        correct: 3,
+        info: "Falsch, LEDs sind in allen Situationen im Bereich Energie Verbrauch überlegen!"
+    },
+    {
         question: "Ladegeräte in der Steckdose verbrauchen keinen Strom",
         answers: {
             one: "Richtig",
@@ -19,7 +30,7 @@ var questions = [
             four: "Nur bei Ladegeräten für z.B. Notebooks und andere größere Geräte"
         },
         correct: 2,
-        info: "Falsch, solange ein Ladegerät in der Steckdose ist fließt Strom und wird somit verbraucht"
+        info: "Falsch, solange ein Ladegerät in der Steckdose ist fließt Strom und dieser wird somit verbraucht"
     },
     {
         question: "Heizen macht den meißten Energie verbrauch aus",
@@ -42,8 +53,7 @@ var questions = [
         },
         correct: 1,
         info: "Richtig, ein leerer Kühlschrank verbraucht mehr Energie, den die Luft gibt schneller Kälte ab als andere Gegenstände."
-    },
-    
+    },  
     {
         question: "Per Hand spühlen spart Energie",
         answers: {
@@ -53,6 +63,6 @@ var questions = [
             four: "Nur bei großen Mengen"
         },
         correct: 3,
-        info: "Nur gegenüber alteren Spühlmaschiene, den das Wasser für das Becken zu erhiten verbraucht mehr Strom als eine Energie Effizente Spühlmaschiene!"
+        info: "Nur gegenüber ä.teren Spülmaschienen, den das Wasser für das Becken zu erhitzen verbraucht mehr Strom als eine Energie Effiziente Spülmaschiene!"
     },
 ]
