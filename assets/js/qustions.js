@@ -43,4 +43,16 @@ var questions = [
         correct: 1,
         info: "Richtig, ein leerer Kühlschrank verbraucht mehr Energie, den die Luft gibt schneller Kälte ab als andere Gegenstände."
     },
+    
+    {
+        question: "Per Hand spühlen spart Energie",
+        answers: {
+            one: "Richtig",
+            two: "Falsch",
+            three: "Nur gegenüber älteren Geräten",
+            four: "Nur bei großen Mengen"
+        },
+        correct: 3,
+        info: "Nur gegenüber alteren Spühlmaschiene, den das Wasser für das Becken zu erhiten verbraucht mehr Strom als eine Energie Effizente Spühlmaschiene!"
+    },
 ]
