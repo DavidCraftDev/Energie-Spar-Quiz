@@ -1,6 +1,6 @@
 var questions = [
     {
-        question: "Wenn man das Heizungsthermostat auf Fünf dreht wird es schnell warm",
+        question: "Wenn man das Heizungsthermostat auf Fünf dreht wird es schneller warm",
         answers: {
             one: "Richtig",
             two: "Falsch",
